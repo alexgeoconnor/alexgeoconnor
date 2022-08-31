@@ -1,0 +1,2 @@
+- 👋 Hey, I'm Alex
+- 🌱 I’m currently learning Python for Data Analysis, Data Visualisation & Data Science 
